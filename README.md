@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ 2 years in the React/NextJS Development<br>📚 I'm currently learning Machine learning<br>🎯 Interested in: AI and Language <br>🎲 Fun fact: AI might be able to beat grandmasters in Chess and Go, but it's still trying to figure out the fastest checkout line at the grocery store.</p>
+<p align="left">✨ 2 years in the React/NextJS Development<br>📚 I'm currently learning Machine learning<br>🎯 Interested in: AI and Language</p>
 
 ###
 
